@@ -35,13 +35,6 @@ This task shows how to combine aggregate functions with window functions to prov
 
 Summary
 The tasks provided cover a range of SQL functionalities with a specific focus on window functions. They emphasize:
+Aggregating data using GROUP BY Filtering results with HAVING Comparing and filtering data with WHERE and subqueries Utilizing CTEs for simplifying and structuring complex queries Applying window functions for advanced calculations such as moving averages, running totals, and ranking These exercises are designed to enhance skills in SQL data manipulation and analysis, particularly with window functions, offering practical experience with both fundamental and advanced SQL techniques.
 
-Aggregating data using GROUP BY
-Filtering results with HAVING
-Comparing and filtering data with WHERE and subqueries
-Utilizing CTEs for simplifying and structuring complex queries
-Applying window functions for advanced calculations such as moving averages, running totals, and ranking
-These exercises are designed to enhance skills in SQL data manipulation and analysis, particularly with window functions, offering practical experience with both fundamental and advanced SQL techniques.
-=======
->>>>>>> 84cc9654a0d5311b76e26fdc8483a618ce89e262
-
+Dataset from:- https://www.freecodecamp.org/news/window-functions-in-sql/
